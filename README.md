@@ -141,21 +141,21 @@ A simple way to format data that both Python and JavaScript understand:
 
 ### 1. Inventory Dashboard
 
-<img src="screenshots/dashboard.png" width="500">
+<img src="screenshots/dashboard.png" width="800">
 
 ### 2. Search Functionality
 
-<img src="screenshots/search_feature.gif" width="500">
+<img src="screenshots/search_feature.gif" width="800">
 
 ### 3. Adding a New Product and Low Stock Detection
 
-<img src="screenshots/add_product_feature_&_low_stock_alert.gif" width="500">
+<img src="screenshots/add_product_feature_&_low_stock_alert.gif" width="800">
 
 ### 4. Increment or Decrement Stock of Exiting Products
 
-<img src="screenshots/add_reduce_product_feature.gif" width="500">
+<img src="screenshots/add_reduce_product_feature.gif" width="800">
 
 ### 5. Adding a Product from DB and Editing an Existing Product
-<img src="screenshots/delete_and_edit_features.gif" width="500">
+<img src="screenshots/delete_and_edit_features.gif" width="800">
 
 
