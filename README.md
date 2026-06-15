@@ -1,4 +1,4 @@
-A Basic Inventory Management App
+# A Basic Inventory Management App
 
 In this project, I have created a very basic full-featured inventory management system built with Python/Flask backend and vanilla HTML/CSS/JavaScript frontend. Perfect for small retail shops.
 
