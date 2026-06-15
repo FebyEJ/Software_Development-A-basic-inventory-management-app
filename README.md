@@ -139,9 +139,23 @@ A simple way to format data that both Python and JavaScript understand:
 ```
 ## 📸 Screenshots
 
-### Inventory Dashboard
-![Dashboard](screenshots/dashboard.png)
+### 1. Inventory Dashboard
 
-### Add Product
+<img src="screenshots/dashboard.png" width="500">
 
-![Add Product](screenshots/add-product.png)
+### 2. Search Functionality
+
+<img src="screenshots/search_feature.gif" width="500">
+
+### 3. Adding a New Product and Low Stock Detection
+
+<img src="screenshots/add_product_feature_&_low_stock_alert.gif" width="500">
+
+### 4. Increment or Decrement Stock of Exiting Products
+
+<img src="screenshots/add_reduce_product_feature.gif" width="500">
+
+### 5. Adding a Product from DB and Editing an Existing Product
+<img src="screenshots/delete_and_edit_features.gif" width="500">
+
+
